@@ -1,11 +1,11 @@
-CalculatorWithLoop
+ Number Guessing Game
 
-This is a simple console-based calculator written in Java. It allows the user to perform basic arithmetic operations such as addition, subtraction, multiplication, and division in a continuous loop until the user decides to stop.
+This is a simple Java-based number guessing game where the user has to guess a randomly generated number between 1 and 100. The program provides feedback on whether the guess was too low or too high, and it tracks the number of attempts taken to guess the correct number.
 
  Features
 
-- Perform basic arithmetic operations: addition, subtraction, multiplication, and division.
-- Error handling for division by zero.
-- Continuous loop that allows multiple calculations until the user decides to exit.
-- User-friendly prompts for input and operations.
+- Generates a random number between 1 and 100.
+- Provides feedback on whether the guess is too high or too low.
+- Tracks the number of attempts made by the user to guess the correct number.
+- User-friendly prompts for input and gameplay.
 
